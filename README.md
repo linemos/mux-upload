@@ -2,11 +2,11 @@
 
 ## Oppsett
 
-Må ha installert 'jq'.
+Må ha installert `jq`.
 
 Må ha alle filmene i en mappe i flat struktur.
 
-Må ha 'MUX_TOKEN_ID' og 'MUX_TOKEN_SECRET' i en fil '.mux.env' i samme mappe som scriptet:
+Må ha `MUX_TOKEN_ID` og `MUX_TOKEN_SECRET` i en fil `.mux.env` i samme mappe som scriptet:
 
 ```
 MUX_TOKEN_ID='TOKEN_ID_HER'
@@ -23,7 +23,7 @@ Fra terminalen:
 $ sh mux.sh PATH_TO_MOVIES
 ```
 
-Hvor 'PATH_TO_MOVIES' er relativ path til mappa filmene ligger
+Hvor `PATH_TO_MOVIES` er relativ path til mappa filmene ligger
 
 
 ## Troubleshooting
