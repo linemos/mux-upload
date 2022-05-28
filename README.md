@@ -20,7 +20,7 @@ De hentes ut i Mux-interfacet
 Fra terminalen:
 
 ```
-$ sh mux.sh PATH_TO_MOVIES
+$ sh upload.sh PATH_TO_MOVIES
 ```
 
 Hvor `PATH_TO_MOVIES` er relativ path til mappa filmene ligger
