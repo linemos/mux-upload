@@ -1,7 +1,9 @@
-00:02.000 --> 00:07.000 position:90% align:right size:35%
+1.
+00:02.000 --> 00:07.000 
 ...you have your robotics, and I
 just want to be awesome in space.
 
+2.
 00:08.000 --> 00:12.000 position:90% align:right size:35%
 Why don't you just admit that
 you're freaked out by my robot hand?
